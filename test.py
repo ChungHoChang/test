@@ -5,8 +5,8 @@
 # print("hello, " + name)
 
 print("First Number:")
-No1 = input()
+No1 = int(input())
 print("Second Number:")
-No2 = input()
+No2 = int(input())
 sum = No1 + No2
 print(sum)
