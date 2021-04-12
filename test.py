@@ -9,4 +9,4 @@ No1 = int(input())
 print("Second Number:")
 No2 = int(input())
 sum = No1 + No2
-print(sum)
+print("sum: " + str(sum))
